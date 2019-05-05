@@ -10,14 +10,13 @@ public class Problema15 {
         System.out.println("al doilea numar: ");
         int mNumarNatural = reader.nextInt();
 
-        while (nNumarNatural!=0){
-            aux = aux + (nNumarNatural % 10);
-            nNumarNatural = nNumarNatural / 10;
-            if ((nNumarNatural % 10)!=0){
-                aux = aux * 10;
-            }
+        int lungime = Integer.toString(mNumarNatural).length();
 
+        for (int i = 0; i <lungime; i++) {
+            aux = (aux*10) + (nNumarNatural % 10);
+            nNumarNatural = nNumarNatural / 10;
         }
+        System.out.println(aux);
         if (mNumarNatural == aux){
             System.out.println("true");
         }else {
