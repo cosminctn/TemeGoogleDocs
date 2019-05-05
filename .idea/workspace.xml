@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120bad96-c5b9-42f4-82d9-73c64e27624c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Teme google docs/problema4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problema9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problema4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problema15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,55 +21,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problema123.java">
+        <entry file="file://$PROJECT_DIR$/src/Problema11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="204">
+              <caret line="12" column="51" selection-end-line="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problema7.java">
+        <entry file="file://$PROJECT_DIR$/src/Problema12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="45" />
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problema8.java">
+        <entry file="file://$PROJECT_DIR$/src/Problema13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="8" column="23" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problema9.java">
+        <entry file="file://$PROJECT_DIR$/src/Problema14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problema10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problema11.java">
+        <entry file="file://$PROJECT_DIR$/src/Problema15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -106,12 +94,16 @@
         <option value="$PROJECT_DIR$/src/Problema9.java" />
         <option value="$PROJECT_DIR$/src/Problema10.java" />
         <option value="$PROJECT_DIR$/src/Problema11.java" />
+        <option value="$PROJECT_DIR$/src/Problema12.java" />
+        <option value="$PROJECT_DIR$/src/Problema13.java" />
+        <option value="$PROJECT_DIR$/src/Problema14.java" />
+        <option value="$PROJECT_DIR$/src/Problema15.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1122" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -170,16 +162,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problema11">
-    <configuration name="Problema10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema10" />
+  <component name="RunManager" selected="Application.Problema15">
+    <configuration name="Problema11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema11" />
       <module name="Teme google docs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema11" />
+    <configuration name="Problema12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema12" />
       <module name="Teme google docs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,22 +184,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema7" />
+    <configuration name="Problema13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema13" />
       <module name="Teme google docs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema8" />
+    <configuration name="Problema14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema14" />
       <module name="Teme google docs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problema9" />
+    <configuration name="Problema15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema15" />
       <module name="Teme google docs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problema15" />
+        <item itemvalue="Application.Problema14" />
+        <item itemvalue="Application.Problema13" />
+        <item itemvalue="Application.Problema12" />
         <item itemvalue="Application.Problema11" />
-        <item itemvalue="Application.Problema10" />
-        <item itemvalue="Application.Problema9" />
-        <item itemvalue="Application.Problema8" />
-        <item itemvalue="Application.Problema7" />
       </list>
     </recent_temporary>
   </component>
@@ -237,10 +229,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1122" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.297593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25612053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,15 +241,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33260393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33479214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29321662" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29252437" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32932165" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32603937" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -267,6 +259,18 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problema15.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Problema3.java" />
@@ -322,8 +326,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problema11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="204">
+          <caret line="12" column="51" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problema12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problema13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problema14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problema15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
