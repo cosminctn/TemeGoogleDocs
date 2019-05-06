@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problema4 {
+public class Problema4 {
     public static void main(String[] args) {
         int numerePare=0;
         int numereImpare=0;
