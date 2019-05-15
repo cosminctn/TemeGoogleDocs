@@ -7,13 +7,27 @@ public class Problema123 {
         //Problema 1
 
         System.out.println("Problema 1");
-        String[] simboluri = {"#", "##", "###", "####", "###", "##", "#"};
+        for (i = 1; i <= 4; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("#");
+            }
+            System.out.print(" ");
+        }
 
-       for (i=0;i<simboluri.length;i++){
-           System.out.print(simboluri[i]+" ");
-       }
-       System.out.println();
+        for (i = 4; i > 0; i--) {
+            for (int j = i-1; j > 0; j--) {
+                System.out.print("#");
+            }
+            System.out.print(" ");
+        }
 
+
+        while (i!= 0){
+            i--;
+        }
+
+
+        System.out.println();
 
        //Problema 2
         System.out.println("Problema 2");
